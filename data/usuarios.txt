@@ -1,0 +1,7 @@
+abc@abc.com;1234
+abcd@abcd.com;12345
+ale@ayuwoki.com;ale
+ale@ale.com;123
+aaa@a.com;a
+bbb@b.com;b
+ccc@c.com;c
