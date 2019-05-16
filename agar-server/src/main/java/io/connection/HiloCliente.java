@@ -133,7 +133,7 @@ public class HiloCliente extends Thread {
 							.append(infoUsu[4])
 							.append("</td>")
 							.append("<td>");
-							System.out.println(infoUsu[5] + "this should be yes" + i);
+							
 							
 							
 							if(infoUsu[5].equals("Y@")) {
@@ -180,7 +180,7 @@ public class HiloCliente extends Thread {
 						.append("<body>")
 						.append("<br>")
 						.append("<h1 align=center>")	
-						.append("Error de usuario :(")	
+						.append("Error. Email o contraseña incorrectos :(")	
 						.append("</h1>")		
 						.append("<br>")
 						.append("<br>")
